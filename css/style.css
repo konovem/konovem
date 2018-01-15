@@ -1,0 +1,15 @@
+body {
+  text-align : center;
+  background-color: grey;
+  
+}
+h1 {
+  color: red;
+  font-family: 'Indie Flower',cursive;
+}
+
+p {
+  font-family: 'Architects Daughter',cursive;
+  font-size: 20px;
+  
+}
